@@ -14,13 +14,15 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 - Evite duplicação de código. 
 - Considere a implementação de funções para melhorar a legibilidade, evitar a duplicação e criar soluções mais genéricas.
 
-1.	Crie uma função que compara duas strings  (fazendo o mesmo que a função strcmp).
+*Ordem sugerida: 8, 4, 6, 2, 1*
 
-2.	Crie uma função que transforma todos os caracteres de uma string em maiúsculas.
+1. 	Crie uma função que compara duas strings  (fazendo o mesmo que a função strcmp).
+
+2. Crie uma função que transforma todos os caracteres de uma string em maiúsculas.
 
 3.	Crie uma função que transforma todos os caracteres de uma string em minúsculas.
 
-4.	Crie uma função que recebe uma string e um caractere, e retorne o número de vezes que esse caractere aparece na string.
+4. Crie uma função que recebe uma string e um caractere, e retorne o número de vezes que esse caractere aparece na string.
 
 5.	Crie uma função que recebe uma string e um caractere, e apague todas as ocorrências desse caractere na string (cria uma nova string sem esse caratere).
 
@@ -28,7 +30,7 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 
 7.	Faça um programa que contenha um menu com as chamadas às funções dos exercícios anteriores.
 
-8.	Crie uma função que receba 2 números e retorne o maior valor.
+8. Crie uma função que receba 2 números e retorne o maior valor.
 
 9.	Crie uma função que receba 2 números e retorne o menor valor.
 
