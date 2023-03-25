@@ -53,3 +53,20 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 18.	[\*] Elabore um programa que que solicite um nome e escreve-o de trás para a frente sem utilizar uma string auxiliar.
 
 19.	Elabore um programa que que solicite um texto e retire todos os espaços em branco desse texto sem utilizar uma string auxiliar.
+
+
+
+1. 	Crie uma função que compara duas strings  (fazendo o mesmo que a função strcmp).
+
+2. Crie uma função que transforma todos os caracteres de uma string em maiúsculas.
+
+3.	Crie uma função que transforma todos os caracteres de uma string em minúsculas.
+
+4. Crie uma função que recebe uma string e um caractere, e retorne o número de vezes que esse caractere aparece na string.
+
+5.	Crie uma função que recebe uma string e um caractere, e apague todas as ocorrências desse caractere na string (cria uma nova string sem esse caratere).
+
+6.	Crie uma função que recebe uma string e dois caracteres (C1 e C2) e troque todas as ocorrências na string do caractere C1 pelo caractere C2.
+
+7.	Faça um programa que contenha um menu com as chamadas às funções dos exercícios anteriores.
+
