@@ -20,7 +20,7 @@ Na resolução destes exercícios deve ser utilizada a Linguagem de Programaçã
 
 2.	[\*] Preencher um vetor x com 5 elementos inteiros pares entre número 2 a 20 inseridos pelo utilizador. Preencher um vetor y com 5 elementos inteiros ímpares de 10 a 19, inseridos pelo utilizador.  Somar os números que pertençam a mesma posição e imprimir cada resultado no ecrã, ou seja: x[0]+y[0],x[1]+y[1].
 
-3. [\*] Preencher um vetor de 8 elementos inteiros inseridos pelo utilizador. Mostrar o vetor e informar quantos números são maiores que 30. Somar esses números. Somar todos os números.
+3. [\*] Preencher um vetor de 8 elementos inteiros inseridos pelo utilizador. Mostrar o vetor e informar quantos números são maiores que 30. Somar esses números maiores que 30.
 
 4. [\*] Preencher um vetor de 8 elementos inteiros inseridos pelo utilizador. Mostrar o vetor na horizontal, espaçando os valores por tabs (\t). Calcular a média dos valores do vetor. Mostrar quantos números são múltiplos de 5. Quantos números são maiores que 10 e menores que 30. Qual o maior número do vetor.
 
